@@ -1,11 +1,6 @@
-# DevOps MERN Todo
-
-MERN stack Todo application with DevOps practices.
-
-## Tech Stack
-- MongoDB
-- Express.js
-- React
-- Node.js
-- Docker
-- GitHub Actions
+<<<<<<< HEAD
+# devops-mern-todo
+This is a mock project for learning Devops with MERN stack
+=======
+# devops
+>>>>>>> 27f276d18189185e9631d9553cb70fefe6db496e
